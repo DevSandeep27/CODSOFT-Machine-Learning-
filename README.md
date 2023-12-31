@@ -6,5 +6,5 @@ This repository contains all of the tasks that I completed as part of my Machine
 ## Tasks:
 
 * Task 1: Credit Card Fraud Detection
-* Task 2: SMS Spam Detection
+* Task 2: Customer Churn Prediction
 * Task 3: Movie Genre Classification
